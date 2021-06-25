@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e7948d6.chunk.css",
+    "main.js": "/static/js/main.238a7fcb.chunk.js",
+    "main.js.map": "/static/js/main.238a7fcb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2018c295.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2018c295.js.map",
+    "static/css/2.d97c81c1.chunk.css": "/static/css/2.d97c81c1.chunk.css",
+    "static/js/2.739e64cd.chunk.js": "/static/js/2.739e64cd.chunk.js",
+    "static/js/2.739e64cd.chunk.js.map": "/static/js/2.739e64cd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d97c81c1.chunk.css.map": "/static/css/2.d97c81c1.chunk.css.map",
+    "static/css/main.0e7948d6.chunk.css.map": "/static/css/main.0e7948d6.chunk.css.map",
+    "static/js/2.739e64cd.chunk.js.LICENSE.txt": "/static/js/2.739e64cd.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/emptyCheckoutCart.9c25962a.png": "/static/media/emptyCheckoutCart.9c25962a.png",
+    "static/media/internalServer500.92054781.png": "/static/media/internalServer500.92054781.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2018c295.js",
+    "static/css/2.d97c81c1.chunk.css",
+    "static/js/2.739e64cd.chunk.js",
+    "static/css/main.0e7948d6.chunk.css",
+    "static/js/main.238a7fcb.chunk.js"
+  ]
+}
